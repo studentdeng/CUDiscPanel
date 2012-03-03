@@ -1,0 +1,361 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* CUDiscPanelAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {924, 1552}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 652}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CUDiscPanel */ = {
+		activeExec = 0;
+		executables = (
+			D7E10F6014F5D2A400DF4013 /* CUDiscPanel */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CUDiscPanelViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 359}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 259}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CUDiscPanelViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {963, 1616}}";
+			sepNavSelRange = "{337, 0}";
+			sepNavVisRange = "{37, 652}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D7E10F6014F5D2A400DF4013 /* CUDiscPanel */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CUDiscPanel */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CUDiscPanel */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = D7E10F6714F5D2BD00DF4013 /* Code sense */;
+		executables = (
+			D7E10F6014F5D2A400DF4013 /* CUDiscPanel */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					558,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 352028586;
+			PBXWorkspaceStateSaveDate = 352028586;
+		};
+		perUserProjectItems = {
+			D78D277714F7797100A565FB /* PBXTextBookmark */ = D78D277714F7797100A565FB /* PBXTextBookmark */;
+			D78D279C14F77B7300A565FB /* PBXTextBookmark */ = D78D279C14F77B7300A565FB /* PBXTextBookmark */;
+			D7ACBFB614F72CB70001B7C7 /* PBXTextBookmark */ = D7ACBFB614F72CB70001B7C7 /* PBXTextBookmark */;
+			D7BA306514FB85B500ADD8D7 /* PBXBookmark */ = D7BA306514FB85B500ADD8D7 /* PBXBookmark */;
+			D7BA307D14FB85FB00ADD8D7 /* PBXBookmark */ = D7BA307D14FB85FB00ADD8D7 /* PBXBookmark */;
+			D7BA30AF14FB87CF00ADD8D7 /* PBXTextBookmark */ = D7BA30AF14FB87CF00ADD8D7 /* PBXTextBookmark */;
+			D7BA30B014FB87CF00ADD8D7 /* PBXTextBookmark */ = D7BA30B014FB87CF00ADD8D7 /* PBXTextBookmark */;
+			D7BA30B114FB87CF00ADD8D7 /* PBXTextBookmark */ = D7BA30B114FB87CF00ADD8D7 /* PBXTextBookmark */;
+			D7BC079714F6099900C8DA83 /* PBXTextBookmark */ = D7BC079714F6099900C8DA83 /* PBXTextBookmark */;
+			D7BC09B214F6391100C8DA83 /* PBXTextBookmark */ = D7BC09B214F6391100C8DA83 /* PBXTextBookmark */;
+			D7BC09B614F6391100C8DA83 /* PBXTextBookmark */ = D7BC09B614F6391100C8DA83 /* PBXTextBookmark */;
+			D7BC0A3E14F63F2400C8DA83 /* PBXTextBookmark */ = D7BC0A3E14F63F2400C8DA83 /* PBXTextBookmark */;
+			D7BC0A3F14F63F2400C8DA83 /* PBXTextBookmark */ = D7BC0A3F14F63F2400C8DA83 /* PBXTextBookmark */;
+			D7BC0A4214F63F2400C8DA83 /* PBXTextBookmark */ = D7BC0A4214F63F2400C8DA83 /* PBXTextBookmark */;
+			D7BC0A8914F649EB00C8DA83 /* PBXTextBookmark */ = D7BC0A8914F649EB00C8DA83 /* PBXTextBookmark */;
+			D7BC0AC514F6525700C8DA83 /* PBXTextBookmark */ = D7BC0AC514F6525700C8DA83 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D7E10F6614F5D2BD00DF4013 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D78D277714F7797100A565FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CUDiscPanelViewController.h */;
+		name = "CUDiscPanelViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 247;
+		vrLoc = 0;
+	};
+	D78D279C14F77B7300A565FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CUDiscPanelViewController.m */;
+		name = "CUDiscPanelViewController.m: 39";
+		rLen = 0;
+		rLoc = 943;
+		rType = 0;
+		vrLen = 832;
+		vrLoc = 931;
+	};
+	D7ACBFB614F72CB70001B7C7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7ACBFB714F72CB70001B7C7 /* math.h */;
+		name = "math.h: 334";
+		rLen = 5;
+		rLoc = 14378;
+		rType = 0;
+		vrLen = 654;
+		vrLoc = 13969;
+	};
+	D7ACBFB714F72CB70001B7C7 /* math.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = math.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/architecture/arm/math.h;
+		sourceTree = "<absolute>";
+	};
+	D7BA306514FB85B500ADD8D7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D7BC06AD14F5E6A100C8DA83 /* close.png */;
+	};
+	D7BA307D14FB85FB00ADD8D7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D7BC05D714F5DABB00C8DA83 /* bg.png */;
+	};
+	D7BA30AF14FB87CF00ADD8D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7E10F6814F5D2D800DF4013 /* CUDiscPanel.h */;
+		name = "CUDiscPanel.h: 11";
+		rLen = 0;
+		rLoc = 159;
+		rType = 0;
+		vrLen = 581;
+		vrLoc = 0;
+	};
+	D7BA30B014FB87CF00ADD8D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7E10F6914F5D2D800DF4013 /* CUDiscPanel.m */;
+		name = "CUDiscPanel.m: 231";
+		rLen = 0;
+		rLoc = 6286;
+		rType = 0;
+		vrLen = 981;
+		vrLoc = 0;
+	};
+	D7BA30B114FB87CF00ADD8D7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7E10F6914F5D2D800DF4013 /* CUDiscPanel.m */;
+		name = "CUDiscPanel.m: 9";
+		rLen = 0;
+		rLoc = 155;
+		rType = 0;
+		vrLen = 981;
+		vrLoc = 0;
+	};
+	D7BC05D714F5DABB00C8DA83 /* bg.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 51}, {972, 695}}";
+		};
+	};
+	D7BC070314F5EB1100C8DA83 /* UIView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIView.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h;
+		sourceTree = "<absolute>";
+	};
+	D7BC070814F5EB4A00C8DA83 /* CGAffineTransform.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGAffineTransform.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGAffineTransform.h;
+		sourceTree = "<absolute>";
+	};
+	D7BC073014F5EE3300C8DA83 /* UIGestureRecognizer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIGestureRecognizer.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGestureRecognizer.h;
+		sourceTree = "<absolute>";
+	};
+	D7BC079714F6099900C8DA83 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CUDiscPanelAppDelegate.m */;
+		name = "CUDiscPanelAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 652;
+		vrLoc = 0;
+	};
+	D7BC09B214F6391100C8DA83 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7BC073014F5EE3300C8DA83 /* UIGestureRecognizer.h */;
+		name = "UIGestureRecognizer.h: 16";
+		rLen = 156;
+		rLoc = 294;
+		rType = 0;
+		vrLen = 2043;
+		vrLoc = 39;
+	};
+	D7BC09B614F6391100C8DA83 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7BC070314F5EB1100C8DA83 /* UIView.h */;
+		name = "UIView.h: 78";
+		rLen = 43;
+		rLoc = 3419;
+		rType = 0;
+		vrLen = 1151;
+		vrLoc = 2708;
+	};
+	D7BC0A3E14F63F2400C8DA83 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7E10F7314F5D35800DF4013 /* KTOneFingerRotationGestureRecognizer.h */;
+		name = "KTOneFingerRotationGestureRecognizer.h: 30";
+		rLen = 19;
+		rLoc = 1327;
+		rType = 0;
+		vrLen = 943;
+		vrLoc = 568;
+	};
+	D7BC0A3F14F63F2400C8DA83 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7BC0A4014F63F2400C8DA83 /* UISwipeGestureRecognizer.h */;
+		name = "UISwipeGestureRecognizer.h: 47";
+		rLen = 207;
+		rLoc = 1828;
+		rType = 0;
+		vrLen = 1204;
+		vrLoc = 831;
+	};
+	D7BC0A4014F63F2400C8DA83 /* UISwipeGestureRecognizer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UISwipeGestureRecognizer.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISwipeGestureRecognizer.h;
+		sourceTree = "<absolute>";
+	};
+	D7BC0A4214F63F2400C8DA83 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7BC0A4314F63F2400C8DA83 /* NSObjCRuntime.h */;
+		name = "NSObjCRuntime.h: 307";
+		rLen = 100;
+		rLoc = 11463;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 11211;
+	};
+	D7BC0A4314F63F2400C8DA83 /* NSObjCRuntime.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObjCRuntime.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h;
+		sourceTree = "<absolute>";
+	};
+	D7BC0A8914F649EB00C8DA83 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7E10F7414F5D35800DF4013 /* KTOneFingerRotationGestureRecognizer.m */;
+		name = "KTOneFingerRotationGestureRecognizer.m: 73";
+		rLen = 0;
+		rLoc = 3058;
+		rType = 0;
+		vrLen = 916;
+		vrLoc = 2407;
+	};
+	D7BC0AC514F6525700C8DA83 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D7BC070814F5EB4A00C8DA83 /* CGAffineTransform.h */;
+		name = "CGAffineTransform.h: 91";
+		rLen = 65;
+		rLoc = 3124;
+		rType = 0;
+		vrLen = 1118;
+		vrLoc = 2654;
+	};
+	D7E10F6014F5D2A400DF4013 /* CUDiscPanel */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CUDiscPanel;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	D7E10F6614F5D2BD00DF4013 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D7E10F6714F5D2BD00DF4013 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D7E10F6814F5D2D800DF4013 /* CUDiscPanel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 528}}";
+			sepNavSelRange = "{159, 0}";
+			sepNavVisRange = "{0, 581}";
+		};
+	};
+	D7E10F6914F5D2D800DF4013 /* CUDiscPanel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1204, 3644}}";
+			sepNavSelRange = "{155, 0}";
+			sepNavVisRange = "{0, 981}";
+		};
+	};
+	D7E10F7314F5D35800DF4013 /* KTOneFingerRotationGestureRecognizer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 640}}";
+			sepNavSelRange = "{1327, 19}";
+			sepNavVisRange = "{568, 943}";
+		};
+	};
+	D7E10F7414F5D35800DF4013 /* KTOneFingerRotationGestureRecognizer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1404, 1376}}";
+			sepNavSelRange = "{3058, 0}";
+			sepNavVisRange = "{2407, 916}";
+		};
+	};
+}
