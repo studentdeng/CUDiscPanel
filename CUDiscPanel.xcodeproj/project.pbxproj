@@ -15,7 +15,7 @@
 		2899E5220DE3E06400AC0155 /* CUDiscPanelViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* CUDiscPanelViewController.xib */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* CUDiscPanelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* CUDiscPanelViewController.m */; };
-		D7BC05D814F5DABB00C8DA83 /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BC05D714F5DABB00C8DA83 /* bg.png */; };
+		876FECB7150DC25C0098BEBC /* img.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 876FECB6150DC25C0098BEBC /* img.jpg */; };
 		D7BC06AE14F5E6A100C8DA83 /* close.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BC06AD14F5E6A100C8DA83 /* close.png */; };
 		D7E10F6A14F5D2D800DF4013 /* CUDiscPanel.m in Sources */ = {isa = PBXBuildFile; fileRef = D7E10F6914F5D2D800DF4013 /* CUDiscPanel.m */; };
 		D7E10F7514F5D35800DF4013 /* KTOneFingerRotationGestureRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = D7E10F7414F5D35800DF4013 /* KTOneFingerRotationGestureRecognizer.m */; };
@@ -34,8 +34,8 @@
 		28D7ACF70DDB3853001CB0EB /* CUDiscPanelViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CUDiscPanelViewController.m; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* CUDiscPanel_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CUDiscPanel_Prefix.pch; sourceTree = "<group>"; };
+		876FECB6150DC25C0098BEBC /* img.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img.jpg; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* CUDiscPanel-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CUDiscPanel-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
-		D7BC05D714F5DABB00C8DA83 /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = "<group>"; };
 		D7BC06AD14F5E6A100C8DA83 /* close.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = close.png; sourceTree = "<group>"; };
 		D7E10F6814F5D2D800DF4013 /* CUDiscPanel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CUDiscPanel.h; sourceTree = "<group>"; };
 		D7E10F6914F5D2D800DF4013 /* CUDiscPanel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CUDiscPanel.m; sourceTree = "<group>"; };
@@ -102,8 +102,8 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				876FECB6150DC25C0098BEBC /* img.jpg */,
 				D7BC06AD14F5E6A100C8DA83 /* close.png */,
-				D7BC05D714F5DABB00C8DA83 /* bg.png */,
 				2899E5210DE3E06400AC0155 /* CUDiscPanelViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* CUDiscPanel-Info.plist */,
@@ -190,8 +190,8 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				2899E5220DE3E06400AC0155 /* CUDiscPanelViewController.xib in Resources */,
-				D7BC05D814F5DABB00C8DA83 /* bg.png in Resources */,
 				D7BC06AE14F5E6A100C8DA83 /* close.png in Resources */,
+				876FECB7150DC25C0098BEBC /* img.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

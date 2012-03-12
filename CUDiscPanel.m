@@ -208,12 +208,12 @@ static int ReCulRotateToDegree(float aRotate)
     }
     
     int degree = ReCulRotateToDegree(rotation);
-    
+    int index = 0;
     int unit = 360 / [buttonList count];
-    degree += unit / 2;
-    
-    int index = degree / unit;
-    index %= [buttonList count];
+    if (degree > unit / 2 && degree <= 360 - unit / 2) {
+        degree -= unit / 2;
+        index = [buttonList count]-1 - degree / unit;
+    }
     
     UIButton *item = [buttonList objectAtIndex:index];
     item.backgroundColor = [UIColor blackColor];
@@ -228,7 +228,7 @@ static int ReCulRotateToDegree(float aRotate)
         [self addRotate:[recognizer rotation]];
     }
     
-    //[self changeColor];
+    [self changeColor];
 }
 
 @end

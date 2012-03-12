@@ -44,7 +44,7 @@
     
     panel.center = self.view.center;
     
-    [panel setBackgroundImage:[UIImage imageNamed:@"bg.png"]];
+    [panel setBackgroundImage:[UIImage imageNamed:@"img.jpg"]];
     
     [self.view addSubview:panel];
     
